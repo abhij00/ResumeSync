@@ -1,5 +1,5 @@
 
-# --- Python Specific (FROM YOUR IMAGE) ---
+# --- Python Specific
 __pycache__/
 *.pyc
 venv/
