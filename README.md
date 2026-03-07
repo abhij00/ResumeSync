@@ -4,6 +4,10 @@
 ResumeSync is a simple resume management and candidate ranking system that helps recruiters upload resumes, create jobs roles, and view ranked candidates.
 
 ---
+## 🎥 Project Demo Video
+
+Demo Video Drive link:
+https://drive.google.com/drive/folders/1f1qtRFx3cHGyzNs7wmN8yfOra30NtDWA
 
 ## Languages Used
 
